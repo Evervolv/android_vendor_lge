@@ -15,3 +15,4 @@
 # This file was generated from device/lge/mako/proprietary-blobs.txt
 
 USE_CAMERA_STUB := false
+TARGET_PROVIDES_POWERHAL := true

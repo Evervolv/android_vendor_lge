@@ -59,6 +59,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/mako/proprietary/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
     vendor/lge/mako/proprietary/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/lge/mako/proprietary/gps.msm8960.so:system/lib/hw/gps.msm8960.so \
+    vendor/lge/mako/proprietary/power.msm8960.so:system/lib/hw/power.msm8960.so \
     vendor/lge/mako/proprietary/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
     vendor/lge/mako/proprietary/libacdbdata.so:system/lib/libacdbdata.so \
     vendor/lge/mako/proprietary/libacdbloader.so:system/lib/libacdbloader.so \
