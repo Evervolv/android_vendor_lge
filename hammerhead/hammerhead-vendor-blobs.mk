@@ -85,6 +85,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/hammerhead/proprietary/lib/libWVphoneAPI.so:system/lib/libWVphoneAPI.so \
     vendor/lge/hammerhead/proprietary/lib/libxml.so:system/lib/libxml.so \
     vendor/lge/hammerhead/proprietary/vendor/bin/vss_init:system/vendor/bin/vss_init \
+    vendor/lge/hammerhead/proprietary/vendor/firmware/a330_pfp.fw:system/vendor/firmware/a330_pfp.fw \
+    vendor/lge/hammerhead/proprietary/vendor/firmware/a330_pm4.fw:system/vendor/firmware/a330_pm4.fw \
     vendor/lge/hammerhead/proprietary/vendor/firmware/adsp.b00:system/vendor/firmware/adsp.b00 \
     vendor/lge/hammerhead/proprietary/vendor/firmware/adsp.b01:system/vendor/firmware/adsp.b01 \
     vendor/lge/hammerhead/proprietary/vendor/firmware/adsp.b02:system/vendor/firmware/adsp.b02 \
